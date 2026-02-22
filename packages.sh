@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pacman -Sy steam gamemode gamescope sddm-kcm fwupd fwupd-docs sbctl efitools pacman-contrib unrar unzip ufw gwenview firefox blender bitwarden openh264 terminus-font evolution evince btrfs-assistant apparmor dnscrypt-proxy
+pacman -Sy steam gamemode gamescope sddm-kcm kded kded5 fwupd fwupd-docs sbctl efitools pacman-contrib unrar unzip ufw gwenview firefox blender bitwarden openh264 terminus-font evolution evince btrfs-assistant apparmor dnscrypt-proxy
 
 pacman -Sy --needed base-devel
 
