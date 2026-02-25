@@ -4,6 +4,6 @@ pacman -Sy steam gamemode gamescope sddm-kcm kded kded5 fwupd fwupd-docs sbctl e
 
 pacman -Sy --needed base-devel
 
-pacman -Rs htop
+pacman -Rn htop vim
 
 rm -rf /usr/share/sddm/themes/maya /usr/share/applications/assistant.desktop /usr/share/applications/designer.desktop /usr/share/applications/linguist.desktop /usr/share/applications/qdbusviewer.desktop /usr/share/applications/qv4l2.desktop /usr/share/applications/qvidcap.desktop /usr/share/applications/lstopo.desktop /usr/share/applications/org.kde.kwrite.desktop
