@@ -4,4 +4,4 @@ pacman -S steam gamemode gamescope fuse2 fwupd fwupd-docs sbctl efitools pacman-
 
 pacman -S --needed base-devel
 
-pacman -Rn htop vim
+pacman -Rn htop
